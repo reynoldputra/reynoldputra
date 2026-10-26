@@ -4,7 +4,7 @@
 
 <h4>🚀 About</h4>
 <p>
-  I've an interest in improving backend and frontend skills, mostly on web development. I also like working on projects in a team. I like managing people so they make good use of their time and resources as a team. I have a lot of curiosity about tools and frameworks to accelerate personal and team workflows.
+  I'm Reynold Putra, a software engineer based in Indonesia with 4+ years of experience, who strives to craft robust software designs using cutting-edge technologies.
 </p>
 <p>
   You can find more about my self at <a href="https://reynoldputra.com">reynoldputra.com</a>.
